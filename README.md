@@ -7,6 +7,7 @@ Fetch and decrypt answers for quizzes at:
 -   [Smashdle](https://smashdle.net/)
 -   [Dotadle](https://dotadle.net/)
 -   [Onepiecedle](https://onepiecedle.net/)
+-   [Narutodle](https://narutodle.net/)
 
 Both EU and US regions are supported.
 
